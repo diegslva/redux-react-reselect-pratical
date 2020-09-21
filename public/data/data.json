@@ -1,0 +1,14 @@
+[
+	{
+		"id": 1,
+		"title": "Camiseta Lacoste",
+		"price": 78.9,
+		"description": "Com tecido clássico, bolso frontal e dupla costura. Melhor mobilidade com linhas italianas e contornos adequados para o verão."
+	},
+	{
+		"id": 2,
+		"title": "Bermuda Jeans",
+		"description": "Bolsos laterais, dupla costura, ziper de bronze e abotoaduras na barra transformam esta bermuda em uma peça para o cotidiano chic.",
+		"price": 138.99
+	}
+]
